@@ -26,6 +26,7 @@ SECRET_KEY = 'sv@y@0on)ictmvf+o_a8(u%tn%k(ivf&733s0#$(&@dfhc77)m'
 DEBUG = True
 
 ALLOWED_HOSTS = ['potterv.pythonanywhere.com']
+#ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
